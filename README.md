@@ -4,6 +4,7 @@ This repo is for synopsys icc2 flow for skywater 130nm PDK
 What are the files needed?
 
 the following files needed are as shown in the image 
+
 ![image](https://user-images.githubusercontent.com/76478624/212547423-055c9ebb-cc36-499a-bc56-44ebed36435e.png)
 
 1. LEF file - The LEF file is the abstract view of cells. It only gives the idea about PR boundary, pin position and metal layer information of a cell. 
@@ -13,3 +14,11 @@ the following files needed are as shown in the image
   - Technology file(.tf) - Technology File is the most critical input for physical design tools. It provides technology-specific information like the names and physical and electrical characteristics of each metal/via layers and the routing design rules.
   
 3. TLU/TLU+ files - These modles are set of models contains advanced process effects that can be used by parasitic extractor in PnR tools for modelling these are generated from ITF filesTLUPlus is a binary table format that stores the RC coefficients. The TLUPlus models enable accurate RC extraction results by including the effects of width, space, density, and temperature on the resistance coefficients.(.itf is used to generate these files)
+
+
+You can get the LEF file from [Skywater github repo](https://github.com/google/skywater-pdk) and the other files [here](https://github.com/bharath19-gs/synopsys_ICC2flow_130nm/tree/main/synopsys_skywater_flow_nominal)
+ 
+
+
+
+## Thank you
