@@ -5,7 +5,8 @@ What are the files needed?
 
 the following files needed are as shown in the image 
 
-![image](https://user-images.githubusercontent.com/76478624/212547423-055c9ebb-cc36-499a-bc56-44ebed36435e.png)
+![image](https://user-images.githubusercontent.com/76478624/213088789-8b139a29-bd20-4c49-82ca-4fc602e5ba2f.png)
+
 
 1. LEF file - The LEF file is the abstract view of cells. It only gives the idea about PR boundary, pin position and metal layer information of a cell. 
 
