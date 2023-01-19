@@ -17,7 +17,7 @@ the following files needed are as shown in the image
 3. TLU/TLU+ files - These modles are set of models contains advanced process effects that can be used by parasitic extractor in PnR tools for modelling these are generated from ITF filesTLUPlus is a binary table format that stores the RC coefficients. The TLUPlus models enable accurate RC extraction results by including the effects of width, space, density, and temperature on the resistance coefficients.(.itf is used to generate these files)
 
 
-You can get the **LEF/DEF/.db(.lib file)** file from [Skywater github repo](https://github.com/google/skywater-pdk) and the other files [here](https://github.com/bharath19-gs/synopsys_ICC2flow_130nm/tree/main/synopsys_skywater_flow_nominal)
+You can get the **LEF/DEF/.db(.lib file)** file from [Skywater github repo](https://github.com/google/skywater-pdk)/ few .db files specific to your design and the other files [here](https://github.com/bharath19-gs/synopsys_ICC2flow_130nm/tree/main/synopsys_skywater_flow_nominal)
  
 
 
