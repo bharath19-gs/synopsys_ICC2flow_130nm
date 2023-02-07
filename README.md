@@ -42,29 +42,29 @@ You can get
   
   2. secondly, use a dp_setup file 
   
-  Now referring the main [tcl file](https://github.com/kunalg123/icc2_workshop_collaterals/blob/master/standaloneFlow/top.tcl), the important steps 
-  3. NDM Library creation
-  4. Read Synthesized Verilog
-  5. Technology setup for routing layer direction, offset, site default, and site symmetry.
-  6. Specify a Tcl script to read in your TLU+ files by using the read_parasitic_tech command
-  7. Routing settings(setting min and max layers for routing)
-  8. Checking design : Pre-floor planning
-  9. Floorplanning 
-  10. Power Grid pin connections 
-  11. Input/Output pin placement
-  12. Memory placement
-  13. Placing macro's
-  14. Configuring placement
-  15. Reading parastic files(TLU+ files)
-  16. Read constraints
-  17. Create power
-  18. Pin placement 
-  19. Timing estimation 
-  20. Place
-  21. Clock Tree synthesis
-  22. Routing 
+  Now referring the main [tcl file](https://github.com/kunalg123/icc2_workshop_collaterals/blob/master/standaloneFlow/top.tcl), the important steps <br>
+  3. NDM Library creation <br>
+  4. Read Synthesized Verilog <br>
+  5. Technology setup for routing layer direction, offset, site default, and site symmetry. <br>
+  6. Specify a Tcl script to read in your TLU+ files by using the read_parasitic_tech command <br>
+  7. Routing settings(setting min and max layers for routing)<br>
+  8. Checking design : Pre-floor planning<br>
+  9. Floorplanning <br>
+  10. Power Grid pin connections <br>
+  11. Input/Output pin placement<br>
+  12. Memory placement<br>
+  13. Placing macro's<br>
+  14. Configuring placement<br>
+  15. Reading parastic files(TLU+ files)<br>
+  16. Read constraints<br>
+  17. Create power<br>
+  18. Pin placement <br>
+  19. Timing estimation <br>
+  20. Place<br>
+  21. Clock Tree synthesis<br>
+  22. Routing <br>
   
-  final GDSII file is generated and given for chip fabrication!
+  final GDSII file is generated and given for chip fabrication!<br>
   
   
   ## References 
